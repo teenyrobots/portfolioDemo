@@ -1,0 +1,22 @@
+/* Styles for HTML/CSS/JSS review */
+
+body {
+	background-color: pink;
+	font-family: Helvetica, sans-serif;
+}
+
+header {
+	background-color: LightGreen;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.mainContainer {
+	background-color: yellow;
+}
+
+.mainContainer img {
+	width: 100%;
+	max-width: 600px;
+}
